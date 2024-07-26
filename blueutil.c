@@ -15,7 +15,8 @@
 #include <stdio.h>
 #include <string.h>
 #include <unistd.h>
-#include "bluetooth.h"
+#include "Bluetooth.h"
+#include "blueutil.h"
 
 #define ON 1
 #define OFF 0
